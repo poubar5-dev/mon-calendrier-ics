@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Infomaniak EURIA//v1.0//FR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260106T180000
+DTEND:20260106T185500
+SUMMARY:[B1] SST 3x8 (88%) - Force endurance
+DESCRIPTION:Semaine 1 - Base I\nDévelopper la force-endurance au Sweet Spot (88 % FTP). Séance : 3x8 min @88 % FTP, récup 4 min. Cadence 85–95 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:2@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260108T133000
+DTEND:20260108T142000
+SUMMARY:[B1] END+Velo 2x10 (Z2)
+DESCRIPTION:Semaine 1 - Base I\nAméliorer la vélocité et la fluidité à intensité modérée. Séance : 2x10 min Z2 @75 % FTP, récup 5 min. Cadence 100+.
+END:VEVENT
+BEGIN:VEVENT
+UID:3@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260110T073000
+DTEND:20260110T093000
+SUMMARY:[FreeRide] Sortie Z2 120'
+DESCRIPTION:Semaine 1 - Base I\nRenforcer l’endurance aérobie. Sortie libre 120 min @70 % FTP. Group Ride Zwift ou sortie extérieure. Boire 500 ml/h, 40–60 g glucides/h.
+END:VEVENT
+BEGIN:VEVENT
+UID:4@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260113T180000
+DTEND:20260113T185500
+SUMMARY:[B1] SST 3x8 (88%) - Force endurance
+DESCRIPTION:Semaine 2 - Base I\nDévelopper la force-endurance au Sweet Spot (88 % FTP). Séance : 3x8 min @88 % FTP, récup 4 min. Cadence 85–95 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:5@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260115T133000
+DTEND:20260115T142000
+SUMMARY:[B1] END+Velo 2x10 (Z2)
+DESCRIPTION:Semaine 2 - Base I\nAméliorer la vélocité et la fluidité à intensité modérée. Séance : 2x10 min Z2 @75 % FTP, récup 5 min. Cadence 100+.
+END:VEVENT
+BEGIN:VEVENT
+UID:6@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260117T073000
+DTEND:20260117T093000
+SUMMARY:[FreeRide] Sortie Z2 120'
+DESCRIPTION:Semaine 2 - Base I\nRenforcer l’endurance aérobie. Sortie libre 120 min @70 % FTP. Group Ride Zwift ou sortie extérieure. Boire 500 ml/h, 40–60 g glucides/h.
+END:VEVENT
+BEGIN:VEVENT
+UID:7@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260120T180000
+DTEND:20260120T185500
+SUMMARY:[B1] SST 3x8 (88%) - Force endurance
+DESCRIPTION:Semaine 3 - Base I\nDévelopper la force-endurance au Sweet Spot (88 % FTP). Séance : 3x8 min @88 % FTP, récup 4 min. Cadence 85–95 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:8@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260122T133000
+DTEND:20260122T142000
+SUMMARY:[B1] END+Velo 2x10 (Z2)
+DESCRIPTION:Semaine 3 - Base I\nAméliorer la vélocité et la fluidité à intensité modérée. Séance : 2x10 min Z2 @75 % FTP, récup 5 min. Cadence 100+.
+END:VEVENT
+BEGIN:VEVENT
+UID:9@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260124T073000
+DTEND:20260124T093000
+SUMMARY:[FreeRide] Sortie Z2 120'
+DESCRIPTION:Semaine 3 - Base I\nRenforcer l’endurance aérobie. Sortie libre 120 min @70 % FTP. Group Ride Zwift ou sortie extérieure. Boire 500 ml/h, 40–60 g glucides/h.
+END:VEVENT
+BEGIN:VEVENT
+UID:10@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260127T180000
+DTEND:20260127T185500
+SUMMARY:[B1] SST 3x8 (88%) - Force endurance
+DESCRIPTION:Semaine 4 - Base I\nDévelopper la force-endurance au Sweet Spot (88 % FTP). Séance : 3x8 min @88 % FTP, récup 4 min. Cadence 85–95 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:11@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260129T133000
+DTEND:20260129T142000
+SUMMARY:[B1] END+Velo 2x10 (Z2)
+DESCRIPTION:Semaine 4 - Base I\nAméliorer la vélocité et la fluidité à intensité modérée. Séance : 2x10 min Z2 @75 % FTP, récup 5 min. Cadence 100+.
+END:VEVENT
+BEGIN:VEVENT
+UID:12@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260131T073000
+DTEND:20260131T093000
+SUMMARY:[FreeRide] Sortie Z2 120'
+DESCRIPTION:Semaine 4 - Base I\nRenforcer l’endurance aérobie. Sortie libre 120 min @70 % FTP. Group Ride Zwift ou sortie extérieure. Boire 500 ml/h, 40–60 g glucides/h.
+END:VEVENT
+BEGIN:VEVENT
+UID:13@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260203T180000
+DTEND:20260203T190000
+SUMMARY:[B2] SST 2x15 (90%)
+DESCRIPTION:Semaine 5 - Base II\nSweet Spot long : 2x15 min @90 % FTP, récup 5 min. Cadence 90 rpm, respiration maîtrisée.
+END:VEVENT
+BEGIN:VEVENT
+UID:14@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260205T133000
+DTEND:20260205T143000
+SUMMARY:[B2] FE 3x10 (90%) - Force lente
+DESCRIPTION:Semaine 5 - Base II\nTravail de force-endurance : 3x10 min @90 % FTP, cadence 60–70 rpm. Récup 5 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:15@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260207T073000
+DTEND:20260207T100000
+SUMMARY:[FreeRide] Z2 150' progressif
+DESCRIPTION:Semaine 5 - Base II\nSortie longue endurance : 150 min @70–75 % FTP. Dernière heure à 75 %. Travail nutrition et régularité.
+END:VEVENT
+BEGIN:VEVENT
+UID:16@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260210T180000
+DTEND:20260210T190000
+SUMMARY:[B2] SST 2x15 (90%)
+DESCRIPTION:Semaine 6 - Base II\nSweet Spot long : 2x15 min @90 % FTP, récup 5 min. Cadence 90 rpm, respiration maîtrisée.
+END:VEVENT
+BEGIN:VEVENT
+UID:17@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260212T133000
+DTEND:20260212T143000
+SUMMARY:[B2] FE 3x10 (90%) - Force lente
+DESCRIPTION:Semaine 6 - Base II\nTravail de force-endurance : 3x10 min @90 % FTP, cadence 60–70 rpm. Récup 5 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:18@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260214T073000
+DTEND:20260214T100000
+SUMMARY:[FreeRide] Z2 150' progressif
+DESCRIPTION:Semaine 6 - Base II\nSortie longue endurance : 150 min @70–75 % FTP. Dernière heure à 75 %. Travail nutrition et régularité.
+END:VEVENT
+BEGIN:VEVENT
+UID:19@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260217T180000
+DTEND:20260217T190000
+SUMMARY:[B2] SST 2x15 (90%)
+DESCRIPTION:Semaine 7 - Base II\nSweet Spot long : 2x15 min @90 % FTP, récup 5 min. Cadence 90 rpm, respiration maîtrisée.
+END:VEVENT
+BEGIN:VEVENT
+UID:20@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260219T133000
+DTEND:20260219T143000
+SUMMARY:[B2] FE 3x10 (90%) - Force lente
+DESCRIPTION:Semaine 7 - Base II\nTravail de force-endurance : 3x10 min @90 % FTP, cadence 60–70 rpm. Récup 5 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:21@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260221T073000
+DTEND:20260221T100000
+SUMMARY:[FreeRide] Z2 150' progressif
+DESCRIPTION:Semaine 7 - Base II\nSortie longue endurance : 150 min @70–75 % FTP. Dernière heure à 75 %. Travail nutrition et régularité.
+END:VEVENT
+BEGIN:VEVENT
+UID:22@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260224T180000
+DTEND:20260224T190000
+SUMMARY:[B2] SST 2x15 (90%)
+DESCRIPTION:Semaine 8 - Base II\nSweet Spot long : 2x15 min @90 % FTP, récup 5 min. Cadence 90 rpm, respiration maîtrisée.
+END:VEVENT
+BEGIN:VEVENT
+UID:23@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260226T133000
+DTEND:20260226T143000
+SUMMARY:[B2] FE 3x10 (90%) - Force lente
+DESCRIPTION:Semaine 8 - Base II\nTravail de force-endurance : 3x10 min @90 % FTP, cadence 60–70 rpm. Récup 5 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:24@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260228T073000
+DTEND:20260228T100000
+SUMMARY:[FreeRide] Z2 150' progressif
+DESCRIPTION:Semaine 8 - Base II\nSortie longue endurance : 150 min @70–75 % FTP. Dernière heure à 75 %. Travail nutrition et régularité.
+END:VEVENT
+BEGIN:VEVENT
+UID:25@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260303T180000
+DTEND:20260303T185000
+SUMMARY:[BU1] VO2 5x4 (108%)
+DESCRIPTION:Semaine 9 - Build I\nDévelopper la VO₂max : 5x4 min @108 % FTP, récup 3 min. Cadence 95–100 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:26@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260305T133000
+DTEND:20260305T143000
+SUMMARY:[BU1] TEMPO 2x20 (85%)
+DESCRIPTION:Semaine 9 - Build I\nTravail tempo prolongé : 2x20 min @85 % FTP, récup 5 min. Cadence fluide 90 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:27@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260307T073000
+DTEND:20260307T100000
+SUMMARY:[FreeRide] Z2 150' + Sprints
+DESCRIPTION:Semaine 9 - Build I\nSortie longue avec 4 sprints de 15s toutes les 30 min. Endurance 70 %, cadence naturelle.
+END:VEVENT
+BEGIN:VEVENT
+UID:28@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260310T180000
+DTEND:20260310T185000
+SUMMARY:[BU1] VO2 5x4 (108%)
+DESCRIPTION:Semaine 10 - Build I\nDévelopper la VO₂max : 5x4 min @108 % FTP, récup 3 min. Cadence 95–100 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:29@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260312T133000
+DTEND:20260312T143000
+SUMMARY:[BU1] TEMPO 2x20 (85%)
+DESCRIPTION:Semaine 10 - Build I\nTravail tempo prolongé : 2x20 min @85 % FTP, récup 5 min. Cadence fluide 90 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:30@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260314T073000
+DTEND:20260314T100000
+SUMMARY:[FreeRide] Z2 150' + Sprints
+DESCRIPTION:Semaine 10 - Build I\nSortie longue avec 4 sprints de 15s toutes les 30 min. Endurance 70 %, cadence naturelle.
+END:VEVENT
+BEGIN:VEVENT
+UID:31@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260317T180000
+DTEND:20260317T185000
+SUMMARY:[BU1] VO2 5x4 (108%)
+DESCRIPTION:Semaine 11 - Build I\nDévelopper la VO₂max : 5x4 min @108 % FTP, récup 3 min. Cadence 95–100 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:32@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260319T133000
+DTEND:20260319T143000
+SUMMARY:[BU1] TEMPO 2x20 (85%)
+DESCRIPTION:Semaine 11 - Build I\nTravail tempo prolongé : 2x20 min @85 % FTP, récup 5 min. Cadence fluide 90 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:33@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260321T073000
+DTEND:20260321T100000
+SUMMARY:[FreeRide] Z2 150' + Sprints
+DESCRIPTION:Semaine 11 - Build I\nSortie longue avec 4 sprints de 15s toutes les 30 min. Endurance 70 %, cadence naturelle.
+END:VEVENT
+BEGIN:VEVENT
+UID:34@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260324T180000
+DTEND:20260324T185000
+SUMMARY:[BU1] VO2 5x4 (108%)
+DESCRIPTION:Semaine 12 - Build I\nDévelopper la VO₂max : 5x4 min @108 % FTP, récup 3 min. Cadence 95–100 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:35@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260326T133000
+DTEND:20260326T143000
+SUMMARY:[BU1] TEMPO 2x20 (85%)
+DESCRIPTION:Semaine 12 - Build I\nTravail tempo prolongé : 2x20 min @85 % FTP, récup 5 min. Cadence fluide 90 rpm.
+END:VEVENT
+BEGIN:VEVENT
+UID:36@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260328T073000
+DTEND:20260328T082500
+SUMMARY:[TEST] FTP 20min
+DESCRIPTION:Test FTP 20 min. Échauffement complet, puis 20 min à effort maximal soutenu. FTP = 95 % de la moyenne sur 20 min.
+END:VEVENT
+BEGIN:VEVENT
+UID:37@intervals.icu
+DTSTAMP:20251230T160000Z
+DTSTART:20260118T073000
+DTEND:20260118T081500
+SUMMARY:[TEST] FTP Ramp Test
+DESCRIPTION:Test FTP progressif (ramp). Objectif : déterminer FTP actualisé. Zwift Ramp Test standard.
+END:VEVENT
+END:VCALENDAR
